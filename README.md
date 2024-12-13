@@ -6,10 +6,18 @@ Phd Student
 Passionate about programming and open source, continuously learning and growing...
 
 ## 技术栈 | Tech Stack 💻
-### 语言 & 框架 | Languages & Frameworks
+
+### 核心技术 | Core Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
+
+### AI & 云计算 | AI & Cloud Computing
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
 
 ### 工具 | Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
@@ -22,9 +30,7 @@ Passionate about programming and open source, continuously learning and growing.
 ![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Luosmallrui&layout=compact&theme=tokyonight)
 
 ## 联系我 | Contact Me 📫
-- 📧 Email: [你的邮箱]
-- 💼 LinkedIn: [你的LinkedIn]
-- 🌐 个人网站 | Website: [你的网站]
+- 📧 Email: 690722590@qq.com
 
 ## 访客数 | Visitors 👀
 ![访客数](https://profile-counter.glitch.me/Luosmallrui/count.svg)
